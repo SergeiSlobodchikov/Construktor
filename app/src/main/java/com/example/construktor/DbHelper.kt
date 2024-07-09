@@ -4,11 +4,7 @@ import android.content.ContentValues
 import android.content.Context
 import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
-import android.util.Log
-import java.io.BufferedWriter
-import java.io.FileOutputStream
-import java.io.IOException
-import java.io.OutputStreamWriter
+
 
 
 class DbHelper(val context : Context, val factory:SQLiteDatabase.CursorFactory?)
