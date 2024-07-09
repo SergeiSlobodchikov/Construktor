@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Construktor" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Construktor" parent="Base.Theme.Construktor" />
+<!--    <style name="RedButtonStyle" parent="@style/Widget.AppCompat.Button">-->
+<!--        <item name="android:background">#FF0000</item> &lt;!&ndash; Красный цвет фона &ndash;&gt;-->
+<!--        <item name="android:textColor">#FFFFFF</item> &lt;!&ndash; Белый цвет текста &ndash;&gt;-->
+<!--        <item name="android:textStyle">bold</item> &lt;!&ndash; Жирный текст &ndash;&gt;-->
+<!--        <item name="android:gravity">center</item> &lt;!&ndash; Текст по центру &ndash;&gt;-->
+<!--        <item name="android:padding">10dp</item> &lt;!&ndash; Отступы вокруг текста &ndash;&gt;-->
+<!--        <item name="android:textSize">28dp</item> &lt;!&ndash; Размер текста &ndash;&gt;-->
+<!--        <item name="android:fontFamily">sans-serif-condensed</item>-->
+<!--    </style>-->
+</resources>

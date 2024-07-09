@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:orientation="vertical"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:background="#7904D2"
+android:paddingBottom="20dp"
+android:layout_marginBottom="20dp">
+
+<ImageView
+    android:id="@+id/result_img"
+    android:layout_width="match_parent"
+    android:layout_height="150dp"
+    android:scaleType="fitCenter"
+    app:srcCompat="@drawable/brick_1_x_1" />
+
+<TextView
+    android:id="@+id/result_tittle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingHorizontal="20dp"
+    android:paddingVertical="20dp"
+    android:textColor="@color/white"
+    android:text="TextView"
+    android:textSize="25sp"
+    android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/result_final"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="20dp"
+        android:paddingVertical="20dp"
+        android:textColor="@color/white"
+        android:text="TextView"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

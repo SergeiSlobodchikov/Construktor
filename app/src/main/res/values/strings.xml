@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Construktor</string>
+    <string name="detal">Добавить детали</string>
+    <string name="set_add">Добавить набор</string>
+    <string name="button_result">Что сможем собрать</string>
+    <string name="add_Int_detail">Введите количество</string>
+    <string name="detail_confirm">Подтвердить</string>
+    <string name="add">Добавить</string>
+    <string name="enterTheQuantity">Введите количество</string>
+</resources>
